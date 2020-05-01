@@ -1,14 +1,14 @@
-.login-page {
-    display: flex;
-    justify-content: center;
-    padding-top: 10%;
-  }
-  .form {
+ .form {
     display: flex;
     justify-content: center;
     background: #FFFFFF;
     padding: 45px;
     text-align: center;
+  }
+.login-page {
+    display: flex;
+    justify-content: center;
+    padding-top: 10%;
   }
   .form input {
     background: #e2e2e2d8;
